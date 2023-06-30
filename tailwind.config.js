@@ -4,11 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily:{
-        'Roboto':['Roboto','sans-serif'],
-        'Fjalla':['Fjalla One','sans-serif'],
-        'Inter':['Inter','sans-serif'],
-        'Roboto_condensed':['Roboto Condensed','sans-serif'],
-        'Fira_sans':['Fira Sans','sans-serif']
+      'poppins':['Poppins','sans-serif'],
       },
     },
   },
